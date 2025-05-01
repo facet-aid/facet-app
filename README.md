@@ -23,4 +23,4 @@ For more information on the principles, research, and detailed assumptions behin
 
 FACET was developed for Taskforce Kiwi (TFK), a New Zealand-based, veteran-led disaster recovery charity. [Learn more about TFK](https://www.taskforcekiwi.org/).
 
-Created by Dr. Malin Zachau and Aleksandra Pawlik, PhD. All intellectual property rights for the app are owned by the developers.
+Created by **Dr. Malin Zachau** and **Aleksandra Pawlik, PhD**. All intellectual property rights for the app are owned by the developers.
